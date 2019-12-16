@@ -1,0 +1,14 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "backend server for SerendibTravalGuide mobile application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isuru Samaranayake, Supimi Piumika, Piyumi Sudusingha",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.13.4"
+  }
+}
