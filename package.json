@@ -14,7 +14,7 @@
   "author": "Isuru Samaranayake, Supimi Piumika, Piyumi Sudusingha",
   "license": "ISC",
   "dependencies": {
-    "npm": "^6.13.4",
+    "npm": "^6.14.6",
     "express": "^4.9.8"
   },
   "engines": {
